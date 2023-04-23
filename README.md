@@ -5,7 +5,7 @@ Knowledge Hub is an Android application that provides a platform for people who 
 > The app uses the concept of implicit and explicit.
 
 **This is the first assignment given by Saumya Singh on YouTube in lecture 12, and I have successfully completed it.** <br>
-Assignment link: [Lecture 12: Fully Functional App](https://www.youtube.com/watch?v=a5tc0QALO-w&t=759s).
+Assignment link: [Lecture 12: Fully Functional App](https://www.youtube.com/watch?v=a5tc0QALO-w&t=759s).<br>
 Playlist link: [Android App Development Course in 2023](https://www.youtube.com/playlist?list=PLTV_nsuD2lf4UCTV6xwvNPvFdmCNKyhc8).
 
 ## Installation
