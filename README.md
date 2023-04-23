@@ -1,4 +1,4 @@
-Knowledge Hub
+#Knowledge Hub
 Knowledge Hub is an Android application that provides a platform for people who are interested in learning about various fields of development, including Android development, web development, iOS development, machine learning, blockchain, and cybersecurity. The app uses both implicit and explicit intents to provide a seamless user experience.
 
 Installation
